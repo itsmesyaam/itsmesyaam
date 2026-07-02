@@ -11,9 +11,9 @@ I am a **Technical Project Manager and Business Analyst** with a background in C
 
 ###  Tech Stack & Tools
 
-- **Management & Design:** Agile/Scrum, Figma, Cursor, UI/UX, HTML & CSS
+- **Management & Design:** Agile, Figma, Cursor, UI/UX, HTML & CSS
 - **Data & Analytics:** Power BI, Tableau, Advanced Excel, SQL
-- **Development Ecosystems (Managing/Overseeing):** Python Full Stack, React, TypeScript
+- **Development Ecosystems (Managing):** Python Full Stack, React, TypeScript
 
 ---
 

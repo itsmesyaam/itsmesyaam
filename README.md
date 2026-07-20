@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm SYAM S
 
-### 🚀 Project Manager | Python Full Stack Developer | Business Analyst | AI Enthusiast
+###  Project Manager | Python Full Stack Developer | Business Analyst | AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Project+Manager;Python+Full+Stack+Developer;React+Developer;Business+Analyst;AI+Builder;Startup+Enthusiast;Always+Learning+Something+New" />
 

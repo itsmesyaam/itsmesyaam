@@ -44,22 +44,6 @@ I believe technology should solve meaningful problems while providing outstandin
 
 ---
 
-# 🚀 Currently Working On
-
-🧠 AI Powered Applications
-
-🌐 Full Stack Web Applications
-
-📱 Flutter Mobile Apps
-
-📊 Data Analytics & Dashboards
-
-🤖 AI Automation
-
-☁ Cloud Deployment
-
----
-
 # 💻 Tech Stack
 
 ## Programming
@@ -124,33 +108,7 @@ Google Sheets
 
 ---
 
-# 🌟 Featured Projects
-
-### 🏥 AI Healthcare Platform
-
-Disease prediction platform powered by AI.
-
----
-
-### 🏗 Construction Management Platform
-
-Enterprise construction management solution.
-
----
-
-### 🛒 E-Commerce Platform
-
-Modern scalable shopping platform.
-
----
-
-### 📊 Business Intelligence Dashboard
-
-Power BI + Python analytics.
-
----
-
-### 🤖 AI Automation Projects
+###  AI Automation Projects
 
 LLMs, AI Agents & Automation Workflows.
 

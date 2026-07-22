@@ -84,91 +84,10 @@ I believe technology should solve meaningful problems while providing outstandin
 
 ---
 
-## Tools
 
-Git
-
-GitHub
-
-Docker
-
-VS Code
-
-Postman
-
-Figma
-
-Power BI
-
-Tableau
-
-Excel
-
-Google Sheets
-
----
-
-###  AI Automation Projects
-
-LLMs, AI Agents & Automation Workflows.
-
----
-
-
----
-
-
-
-
-
----
-
-# 📚 Certifications
-
-🏅 Python Full Stack
-
-🏅 Business Analysis
-
-🏅 Power BI
-
-🏅 Tableau
-
-🏅 SQL
-
-🏅 Digital Marketing
-
-🏅 Project Management
-
----
-
-# 🌍 Let's Connect
-
-LinkedIn
-
-Portfolio
-
-Email
-
-GitHub
-
----
-
-# ⚡ Fun Facts
-
-💡 I love building AI products.
-
-🌍 I enjoy travelling.
-
-🍳 I love cooking.
-
-📖 Continuous learner.
-
-🌙 Night Owl Developer.
-
----
 
 <div align="center">
 
-## ⭐ "Code. Build. Innovate. Repeat."
+##  "Code. Build. Innovate. Repeat."
 
 </div>

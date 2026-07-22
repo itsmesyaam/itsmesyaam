@@ -20,25 +20,15 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 I'm a passionate **Project Manager** and **Python Full Stack Developer** who enjoys building scalable applications, AI-powered products, and solving real-world business problems.
 
 My experience combines
 
-✔ Business Analysis
+✔ Business Analysis ✔ Product Management  ✔ Python Development ✔ React Development
 
-✔ Product Management
-
-✔ Python Development
-
-✔ React Development
-
-✔ Artificial Intelligence
-
-✔ Data Analytics
-
-✔ Startup Strategy
+✔ Artificial Intelligence  ✔ Data Analytics  ✔ Startup Strategy
 
 I believe technology should solve meaningful problems while providing outstanding user experiences.
 
@@ -83,8 +73,6 @@ I believe technology should solve meaningful problems while providing outstandin
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
 ---
-
-
 
 <div align="center">
 

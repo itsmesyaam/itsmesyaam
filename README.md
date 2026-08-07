@@ -16,7 +16,7 @@
 ---
 
 # 💫 About Me:
-I'm a passionate Project Manager and Python Full Stack Developer who enjoys building scalable applications, AI-powered products, and solving real-world business problems.<br><br>My experience combines<br><br>✔ Business Analysis ✔ Product Management ✔ Python Development ✔ React Development<br><br>✔ Artificial Intelligence ✔ Data Analytics ✔ Startup Strategy<br><br>I believe technology should solve meaningful problems while providing outstanding user experiences.<br><br>skills: python, react , java , typescript , php , html, css . docker . power bi  good in creating dashboards and reports 
+I'm a passionate Project Manager and Python Full Stack Developer who enjoys building scalable applications, AI-powered products, and solving real-world business problems.<br> 
 
 
 ## 🌐 Socials:

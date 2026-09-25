@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Syam 👋</h1>
+<h1 align="center">Hi, I'm Syam </h1>
 <h3 align="center">Technical Project Manager & Business Analyst | Turning business requirements into shipped product</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 👋 About Me
+###  About Me
 
 I'm a **Technical Project Manager & Business Analyst** (B.Tech CS) based in Kochi, India, currently at **Bell & Ring Tech Nirman Pvt. Ltd.** I sit at the intersection of engineering and business — I don't just track sprints, I translate ambiguous business needs into technical specs, and translate technical constraints back into business decisions stakeholders can act on.
 
@@ -17,7 +17,7 @@ I work across **React / TypeScript / Python** product teams, and drive decisions
 
 ---
 
-### 🚀 Featured Work
+###  Featured Work
 
 **[Doctor's Appointment Booking Platform](https://github.com/itsmesyaam/doctorsin)**
 Led delivery of a healthcare scheduling platform end-to-end — mapped patient/doctor booking workflows, cut scheduling friction, and shipped a product used in production. Owned the requirements, sprint planning, and UX decisions; engineering execution in React + TypeScript.
@@ -55,6 +55,6 @@ This profile isn't a code portfolio — it's a **delivery portfolio**. Expect:
 
 ###  Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/syamsuresh/)
-- 🎨 [Behance](https://www.behance.net/syams11)
-- ✉️ info@syamsuresh.in
+-  [LinkedIn](https://www.linkedin.com/in/syamsuresh/)
+-  [Behance](https://www.behance.net/syams11)
+-  info@syamsuresh.in

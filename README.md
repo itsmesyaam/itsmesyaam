@@ -194,5 +194,5 @@
 1. Case studies with problem → decisions → outcome are in progress. Star the repos to be notified when they land.<br/>
 Activity data is provided by third-party services and may take a moment to load.<br/><br/>
 GitHub &nbsp;›&nbsp; itsmesyaam &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=itsmesyaam&label=views&color=1D1D1F&style=flat-square" alt="profile views"/><br/>
-Copyright © 2026 Syam Suresh. All rights reserved. &nbsp;|&nbsp; Kochi, India
+Copyright © 2026 Syam Suresh. All rights reserved. &nbsp;|&nbsp;
 </sub>

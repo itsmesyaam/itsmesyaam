@@ -38,7 +38,7 @@ I operate at the intersection of **Product Strategy, Business Analysis, and Full
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 CareOne (<code>CARE-ONE-</code>)</h3>
+      <h3> CareOne (<code>CARE-ONE-</code>)</h3>
       <p>
         <img src="https://img.shields.io/badge/STATUS-PRODUCTION_ARCHITECTURE-10B981?style=flat-square" />
         <img src="https://img.shields.io/badge/SECURITY-DPDP_%26_HIPAA-09090B?style=flat-square" />
@@ -53,7 +53,7 @@ I operate at the intersection of **Product Strategy, Business Analysis, and Full
       <p><a href="https://github.com/itsmesyaam/CARE-ONE-"><strong>→ View CareOne Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚇 Cochin Metro Live Tracker</h3>
+      <h3> Cochin Metro Live Tracker</h3>
       <p>
         <img src="https://img.shields.io/badge/TELEMETRY-60_FPS_REALTIME-10B981?style=flat-square" />
         <img src="https://img.shields.io/badge/GEOSPATIAL-KOCHI_METRO-09090B?style=flat-square" />
@@ -72,7 +72,7 @@ I operate at the intersection of **Product Strategy, Business Analysis, and Full
 
 <!-- INTERACTIVE ARCHITECTURE DRAWERS (CLICK TO EXPAND) -->
 <details>
-<summary><strong>⚡ Click to Expand: CareOne & Cochin Metro System Architecture Blueprints</strong></summary>
+<summary><strong> Click to Expand: CareOne & Cochin Metro System Architecture Blueprints</strong></summary>
 <br/>
 
 #### 🏥 CareOne — Three-Sided Clinical Architecture
